@@ -1,6 +1,6 @@
 #### 👨🏻‍💻 Hi, I'm [@ShihTingJustin](https://github.com/ShihTingJustin), a frontend developer focused on React.js
 #### ⚡ I'm interested in technology and e-commerce industry
-#### 🤝 Welcome to connect with me on [LinkedIn](www.linkedin.com/in/justinhuang777)
+#### 🤝 Welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/justinhuang777)
 
 <!--
 **ShihTingJustin/ShihTingJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
