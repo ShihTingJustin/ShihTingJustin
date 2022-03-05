@@ -1,27 +1,12 @@
-<h1 align="center">Hi, I'm Justin 🙋🏻‍♂️</h1>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Justin 👨🏻‍💻 
 
-<h4 align="center">👨🏻‍💻 A passionate web developer focused on React.js<img align="top" width=30 height=22 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" /><img align="top" width=30 height=22 src="https://react-redux.js.org/img/redux.svg" /></h4>
-<h4 align="center">⚡ Open-minded to new technology <img align="top" width=30 height=20 src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" /></h4>
-<h4 align="center">👀 Dabbling in the field of backend and DevOps <img align="top" width=18 height=22 src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></h4>
-<h4 align="center">🛍 Working in e-commerce industry</h4>
-<h4 align="center">🤝 Welcome to connect <a href="https://www.linkedin.com/in/justinhuang777"><img align="top" width=20 height=20 src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a></h4>
+[![Linkedin Badge](https://img.shields.io/badge/-Justin%20Huang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinhuang777) <img src="https://komarev.com/ghpvc/?username=shihtingjustin&label=Profile%20views&color=61dafb&style=flat" alt="shihtingjustin" /> 
+  
+This is the place where I sharing my side projects and repositories for learning. 
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShihTingJustin&show_icons=true&locale=en" alt="ShihTingJustin" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShihTingJustin&" alt="ShihTingJustin" /></p>
-
-<!--
-**ShihTingJustin/ShihTingJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
+- 🌱 &nbsp;I’m currently learning knowledge of blockchain and Web3
+- 💬 &nbsp;Ask me about anything related to web development or career change success story
+- 📫 &nbsp;How to reach me: justinhuang777@gmail.com
+- 👨‍💻 &nbsp;My personal website [jhdev.pro](https://jhdev.pro) (still working on it 😉)
+- ⚡ &nbsp;Fun fact: I'm a petrolhead and owned a silver SLK 97'
