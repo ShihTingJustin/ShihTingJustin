@@ -10,3 +10,7 @@ This is the place where I sharing my side projects and repositories for learning
 - 📫 &nbsp;How to reach me: justinhuang777@gmail.com
 - 👨‍💻 &nbsp;My personal website [jhdev.pro](https://jhdev.pro) (still working on it 😉)
 - ⚡ &nbsp;Fun fact: I'm a petrolhead and owned a silver SLK 97'
+
+✍🏻 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
