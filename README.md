@@ -10,6 +10,8 @@ This is the place where I sharing my side projects and repositories for learning
 - 📫 &nbsp;How to reach me: justinhuang777@gmail.com
 - 👨‍💻 &nbsp;My personal website [jhdev.pro](https://jhdev.pro) (still working on it 😉)
 - ⚡ &nbsp;Fun fact: I'm a petrolhead and owned a silver SLK 97'
+ 
+<br/>
 
 ✍🏻 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -18,3 +20,14 @@ This is the place where I sharing my side projects and repositories for learning
 - [轉職後端工程師 24 場面試全記錄 — LINE TV/91APP/和泰聯網/緯創/仁寶/技嘉/精英/亞旭](https://medium.com/life-after-hello-world/%E8%BD%89%E8%81%B7%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-24-%E5%A0%B4%E9%9D%A2%E8%A9%A6%E5%85%A8%E8%A8%98%E9%8C%84-bdf061854749?source=rss-6b158ce23c7d------2)
 - [2020 AWSome Day](https://medium.com/life-after-hello-world/2020-awsome-day-54cc82c9e619?source=rss-6b158ce23c7d------2)
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<!-- <details> -->
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+  <p>
+  I am a frontend developer with technical skills and product mindset, specialized in React.js ecosystem for web application development.
+  Now I am working for the largest E-commerce platform in Hong Kong and working on developing enterprise applications.
+  </p>
+<!-- </details> -->
