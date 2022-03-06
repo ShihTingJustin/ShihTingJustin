@@ -73,12 +73,9 @@ This is the place where I sharing my side projects and repositories for learning
 </br>
 
 🔥 &nbsp;**My Stats**
-<div>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihtingjustin&show_icons=true&theme=dracula&title_color=61dafb&bg_color=1f232a&locale=en&layout=compact" alt="shihtingjustin" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihtingjustin&show_icons=true&theme=dracula&title_color=61dafb&bg_color=1f232a&locale=en" alt="shihtingjustin" /></p>
+<br/>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihtingjustin&theme=dark" alt="shihtingjustin" /></p> -->
-</div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shihtingjustin&show_icons=true&theme=dracula&title_color=61dafb&bg_color=1f232a&locale=en&layout=compact" )
+
+![Justin's github stats](https://github-readme-stats.vercel.app/api?username=shihtingjustin&show_icons=true&theme=dracula&title_color=61dafb&bg_color=1f232a)
