@@ -5,11 +5,12 @@
 This is the place where I sharing my side projects and repositories for learning. 
 
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
-- 🌱 &nbsp;I’m currently learning knowledge of blockchain and Web3
-- 💬 &nbsp;Ask me about anything related to web development or career change success story
-- 📫 &nbsp;How to reach me: justinhuang777@gmail.com
-- 👨‍💻 &nbsp;My personal website [jhdev.pro](https://jhdev.pro) (still working on it 😉)
-- ⚡ &nbsp;Fun fact: I'm a petrolhead and owned a silver SLK 97'
+- 🌳 2+ years of experience with TypeScript & React.js development, well-versed in its core concepts and applications, with the ability to independently implement SPA.
+- 🌳 Proficient in using major ecosystem packages such as Redux, Ant Design, and Tailwind, coupled with a strong background in writing unit and E2E testing.
+- 🌳 Passionate about programming and crafting products by hand, dedicated to providing outstanding user experiences and developer experiences, and creating value for the team.
+- 🌳 Continually growing through learning and assisting others, currently in search of a mid-level or senior front-end engineering role.
+- 📫 How to reach me: justinhuang777@gmail.com
+- 👨‍💻 My personal website [jhdev.pro](https://jhdev.pro)
  
 <br/>
 
