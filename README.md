@@ -1,9 +1,11 @@
-### Hi there <span style="width: '25px'"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></div> , I'm Justin 👨🏻‍💻 
+### Hello there <span style="width: '25px'"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></div> , I'm Justin 👨🏻‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Justin%20Huang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinhuang777) <img src="https://komarev.com/ghpvc/?username=shihtingjustin&label=Profile%20views&color=61dafb&style=flat" alt="shihtingjustin" /> 
   
 This is the place where I sharing my side projects and repositories for learning. 
 
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
 - 👨🏻‍💻 2+ years of experience with TypeScript & React.js development, well-versed in its core concepts and applications, with the ability to independently implement SPA.
 - 📦 Proficient in using major ecosystem packages such as Redux, Ant Design, and Tailwind, coupled with a strong background in writing unit and E2E testing.
@@ -21,17 +23,6 @@ This is the place where I sharing my side projects and repositories for learning
 - [轉職後端工程師 24 場面試全記錄 — LINE TV/91APP/和泰聯網/緯創/仁寶/技嘉/精英/亞旭](https://medium.com/life-after-hello-world/%E8%BD%89%E8%81%B7%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-24-%E5%A0%B4%E9%9D%A2%E8%A9%A6%E5%85%A8%E8%A8%98%E9%8C%84-bdf061854749?source=rss-6b158ce23c7d------2)
 - [2020 AWSome Day](https://medium.com/life-after-hello-world/2020-awsome-day-54cc82c9e619?source=rss-6b158ce23c7d------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<!-- <details> -->
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-  <p>
-  I am a frontend developer with technical skills and product mindset, specialized in React.js ecosystem for web application development.
-  Now I am working for the largest E-commerce platform in Hong Kong and working on developing enterprise applications.
-  </p>
-<!-- </details> -->
 
 <br/>
 
