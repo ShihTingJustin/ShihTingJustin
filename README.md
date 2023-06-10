@@ -4,7 +4,7 @@
   
 This is the place where I sharing my side projects and repositories for learning. 
 
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+✨&nbsp;&nbsp;About Me
   
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
 - 👨🏻‍💻 2+ years of experience with TypeScript & React.js development, well-versed in its core concepts and applications, with the ability to independently implement SPA.
