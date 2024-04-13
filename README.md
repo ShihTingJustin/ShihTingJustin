@@ -5,5 +5,5 @@
 ✨This is the place where I sharing my side projects and repositories for learning. 
 
 - 🤝 [![Linkedin Badge](https://img.shields.io/badge/-Justin%20Huang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinhuang777)
-- 🔗 [Personal website](https://jhdev.pro)
-- 🔗 [Blog](https://sthdev.app)
+- 👨🏻‍💻 [Personal website](https://jhdev.pro)
+- 📝 [Blog](https://blog.jhdev.pro)
